@@ -1,0 +1,35 @@
+// Specify file
+//Dir ..\*.nex
+File C:\Users\thoma\Documents\MATLAB\OptoPipeline\data\190922_DTA4\1Hz\1HZ.nex
+
+// Set all options not explicity set to known state
+Set OptionsFromFile MySaveOptions.ofss
+
+ForEachChannel Filter
+ForEachChannel Detect
+ForEachChannel Sort
+//ForEachChannel ExportWaveformInfo
+//ForEachChannel ExportWaveformsFileType
+
+// Set Params
+
+//Set FilterType Bessel
+//Set FilterFreq 250
+
+// Detections Params
+Set DetectSigmas -5.0
+Set AlignDuringDetect on
+
+// Spike Sorting
+Set SortType ValleySeek
+
+// Export Settings
+Set SaveCont true
+Set SaveProcessedCont true
+Set OutputDir .
+
+// Save the data to a new file
+ForEachFile ExportWaveformInfo
+
+// Execute it.
+Process

@@ -1,0 +1,262 @@
+12:26:1.54, 10/10/2022 : Setting options from file 'MySaveOptions.ofss'
+12:26:1.61, 10/10/2022 : Setting waveform detection sigmas to -5.000000
+12:26:1.62, 10/10/2022 : Setting alignment during detection to ON
+12:26:1.64, 10/10/2022 : Setting sort type to Valley Seeking
+12:26:1.65, 10/10/2022 : Enabling saving continuous data to plx files
+12:26:1.66, 10/10/2022 : Enabling saving filtered and up-sampled continuous data to plx files
+12:26:1.68, 10/10/2022 : Output files will be written to: .
+12:26:1.70, 10/10/2022 : ***********************************
+12:26:1.71, 10/10/2022 : Processing file: c:\users\thoma\documents\matlab\optopipeline\data\190922_dta4\1hz\1hz.nex
+12:26:1.71, 10/10/2022 : ***********************************
+12:26:4.09, 10/10/2022 : File Opened: c:\users\thoma\documents\matlab\optopipeline\data\190922_dta4\1hz\1hz.nex
+12:26:4.17, 10/10/2022 : Loading channel 1...
+12:26:4.86, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 1
+12:26:5.10, 10/10/2022 : Extracting with threshold -0.177002% on ch 1
+12:26:6.41, 10/10/2022 : Sorting ch 1 with 2D Valley Seeking method
+12:26:7.39, 10/10/2022 : Loading channel 2...
+12:26:8.00, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 2
+12:26:8.22, 10/10/2022 : Extracting with threshold -0.222778% on ch 2
+12:26:9.09, 10/10/2022 : Loading channel 3...
+12:26:9.78, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 3
+12:26:10.00, 10/10/2022 : Extracting with threshold -0.177002% on ch 3
+12:26:11.33, 10/10/2022 : Sorting ch 3 with 2D Valley Seeking method
+12:26:12.77, 10/10/2022 : Loading channel 4...
+12:26:13.81, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 4
+12:26:14.13, 10/10/2022 : Extracting with threshold -0.195313% on ch 4
+12:26:15.95, 10/10/2022 : Loading channel 5...
+12:26:17.01, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 5
+12:26:17.33, 10/10/2022 : Extracting with threshold -0.222778% on ch 5
+12:26:19.96, 10/10/2022 : Loading channel 6...
+12:26:21.47, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 6
+12:26:21.84, 10/10/2022 : Extracting with threshold -0.186157% on ch 6
+12:26:24.66, 10/10/2022 : Loading channel 7...
+12:26:26.02, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 7
+12:26:26.46, 10/10/2022 : Extracting with threshold -0.189209% on ch 7
+12:26:28.94, 10/10/2022 : Loading channel 8...
+12:26:30.30, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 8
+12:26:30.73, 10/10/2022 : Extracting with threshold -0.183105% on ch 8
+12:26:33.05, 10/10/2022 : Sorting ch 8 with 2D Valley Seeking method
+12:26:35.91, 10/10/2022 : Loading channel 9...
+12:26:37.37, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 9
+12:26:37.78, 10/10/2022 : Extracting with threshold -0.207520% on ch 9
+12:26:40.33, 10/10/2022 : Sorting ch 9 with 2D Valley Seeking method
+12:26:43.59, 10/10/2022 : Loading channel 10...
+12:26:45.32, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 10
+12:26:45.79, 10/10/2022 : Extracting with threshold -0.177002% on ch 10
+12:26:48.34, 10/10/2022 : Sorting ch 10 with 2D Valley Seeking method
+12:26:51.68, 10/10/2022 : Loading channel 11...
+12:26:53.33, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 11
+12:26:53.70, 10/10/2022 : Extracting with threshold -0.167847% on ch 11
+12:26:56.43, 10/10/2022 : Sorting ch 11 with 2D Valley Seeking method
+12:27:0.73, 10/10/2022 : Loading channel 12...
+12:27:1.96, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 12
+12:27:2.34, 10/10/2022 : Extracting with threshold -0.189209% on ch 12
+12:27:4.89, 10/10/2022 : Loading channel 13...
+12:27:6.33, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 13
+12:27:6.67, 10/10/2022 : Extracting with threshold -0.201416% on ch 13
+12:27:9.22, 10/10/2022 : Loading channel 14...
+12:27:10.69, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 14
+12:27:11.07, 10/10/2022 : Extracting with threshold -0.250244% on ch 14
+12:27:13.52, 10/10/2022 : Loading channel 15...
+12:27:14.82, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 15
+12:27:15.16, 10/10/2022 : Extracting with threshold -0.231934% on ch 15
+12:27:17.75, 10/10/2022 : Loading channel 16...
+12:27:18.99, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 16
+12:27:19.36, 10/10/2022 : Extracting with threshold -0.241089% on ch 16
+12:27:21.16, 10/10/2022 : Sorting ch 16 with 2D Valley Seeking method
+12:27:25.54, 10/10/2022 : Loading channel 17...
+12:27:26.70, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 17
+12:27:27.07, 10/10/2022 : Extracting with threshold -0.381470% on ch 17
+12:27:29.23, 10/10/2022 : Sorting ch 17 with 2D Valley Seeking method
+12:27:30.86, 10/10/2022 : Loading channel 18...
+12:27:32.17, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 18
+12:27:32.51, 10/10/2022 : Extracting with threshold -0.350952% on ch 18
+12:27:34.72, 10/10/2022 : Sorting ch 18 with 2D Valley Seeking method
+12:27:37.21, 10/10/2022 : Loading channel 19...
+12:27:38.53, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 19
+12:27:39.09, 10/10/2022 : Extracting with threshold -0.347900% on ch 19
+12:27:41.27, 10/10/2022 : Sorting ch 19 with 2D Valley Seeking method
+12:27:44.62, 10/10/2022 : Loading channel 20...
+12:27:45.95, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 20
+12:27:46.36, 10/10/2022 : Extracting with threshold -0.344849% on ch 20
+12:27:49.35, 10/10/2022 : Loading channel 21...
+12:27:50.66, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 21
+12:27:51.01, 10/10/2022 : Extracting with threshold -0.274658% on ch 21
+12:27:53.65, 10/10/2022 : Loading channel 22...
+12:27:54.79, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 22
+12:27:55.10, 10/10/2022 : Extracting with threshold -0.241089% on ch 22
+12:27:57.20, 10/10/2022 : Loading channel 23...
+12:27:58.45, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 23
+12:27:58.79, 10/10/2022 : Extracting with threshold -0.338745% on ch 23
+12:28:1.35, 10/10/2022 : Loading channel 24...
+12:28:2.48, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 24
+12:28:2.83, 10/10/2022 : Extracting with threshold -0.192261% on ch 24
+12:28:4.68, 10/10/2022 : Sorting ch 24 with 2D Valley Seeking method
+12:28:6.81, 10/10/2022 : Loading channel 25...
+12:28:8.24, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 25
+12:28:8.54, 10/10/2022 : Extracting with threshold -0.186157% on ch 25
+12:28:10.42, 10/10/2022 : Sorting ch 25 with 2D Valley Seeking method
+12:28:12.42, 10/10/2022 : Loading channel 26...
+12:28:13.75, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 26
+12:28:14.12, 10/10/2022 : Extracting with threshold -0.222778% on ch 26
+12:28:16.64, 10/10/2022 : Loading channel 27...
+12:28:17.80, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 27
+12:28:18.11, 10/10/2022 : Extracting with threshold -0.378418% on ch 27
+12:28:19.69, 10/10/2022 : Sorting ch 27 with 2D Valley Seeking method
+12:28:22.45, 10/10/2022 : Loading channel 28...
+12:28:23.52, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 28
+12:28:23.77, 10/10/2022 : Extracting with threshold -0.289917% on ch 28
+12:28:25.64, 10/10/2022 : Loading channel 29...
+12:28:26.43, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 29
+12:28:26.66, 10/10/2022 : Extracting with threshold -0.354004% on ch 29
+12:28:27.87, 10/10/2022 : Sorting ch 29 with 2D Valley Seeking method
+12:28:31.14, 10/10/2022 : Loading channel 30...
+12:28:31.73, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 30
+12:28:31.91, 10/10/2022 : Extracting with threshold -0.277710% on ch 30
+12:28:33.31, 10/10/2022 : Sorting ch 30 with 2D Valley Seeking method
+12:28:34.73, 10/10/2022 : Loading channel 31...
+12:28:35.44, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 31
+12:28:35.69, 10/10/2022 : Extracting with threshold -0.366211% on ch 31
+12:28:37.17, 10/10/2022 : Loading channel 32...
+12:28:37.74, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 32
+12:28:37.93, 10/10/2022 : Extracting with threshold -0.344849% on ch 32
+12:28:39.45, 10/10/2022 : Sorting ch 32 with 2D Valley Seeking method
+12:28:43.58, 10/10/2022 : Loading channel 33...
+12:28:44.24, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 33
+12:28:44.42, 10/10/2022 : Extracting with threshold -0.256348% on ch 33
+12:28:45.66, 10/10/2022 : Sorting ch 33 with 2D Valley Seeking method
+12:28:46.95, 10/10/2022 : Loading channel 34...
+12:28:47.70, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 34
+12:28:47.89, 10/10/2022 : Extracting with threshold -0.341797% on ch 34
+12:28:49.01, 10/10/2022 : Sorting ch 34 with 2D Valley Seeking method
+12:28:50.30, 10/10/2022 : Loading channel 35...
+12:28:51.02, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 35
+12:28:51.21, 10/10/2022 : Extracting with threshold -0.476074% on ch 35
+12:28:52.73, 10/10/2022 : Loading channel 36...
+12:28:53.49, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 36
+12:28:53.71, 10/10/2022 : Extracting with threshold -0.338745% on ch 36
+12:28:54.98, 10/10/2022 : Sorting ch 36 with 2D Valley Seeking method
+12:28:56.07, 10/10/2022 : Loading channel 37...
+12:28:56.68, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 37
+12:28:56.87, 10/10/2022 : Extracting with threshold -0.222778% on ch 37
+12:28:57.92, 10/10/2022 : Sorting ch 37 with 2D Valley Seeking method
+12:28:59.80, 10/10/2022 : Loading channel 38...
+12:29:0.60, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 38
+12:29:0.85, 10/10/2022 : Extracting with threshold -0.363159% on ch 38
+12:29:2.27, 10/10/2022 : Loading channel 39...
+12:29:3.02, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 39
+12:29:3.25, 10/10/2022 : Extracting with threshold -0.314331% on ch 39
+12:29:4.56, 10/10/2022 : Sorting ch 39 with 2D Valley Seeking method
+12:29:5.84, 10/10/2022 : Loading channel 40...
+12:29:6.63, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 40
+12:29:6.86, 10/10/2022 : Extracting with threshold -0.357056% on ch 40
+12:29:8.73, 10/10/2022 : Loading channel 41...
+12:29:9.63, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 41
+12:29:9.85, 10/10/2022 : Extracting with threshold -0.198364% on ch 41
+12:29:11.33, 10/10/2022 : Sorting ch 41 with 2D Valley Seeking method
+12:29:12.66, 10/10/2022 : Loading channel 42...
+12:29:13.46, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 42
+12:29:13.68, 10/10/2022 : Extracting with threshold -0.259399% on ch 42
+12:29:14.97, 10/10/2022 : Sorting ch 42 with 2D Valley Seeking method
+12:29:16.53, 10/10/2022 : Loading channel 43...
+12:29:17.24, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 43
+12:29:17.48, 10/10/2022 : Extracting with threshold -0.180054% on ch 43
+12:29:19.18, 10/10/2022 : Loading channel 44...
+12:29:20.00, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 44
+12:29:20.24, 10/10/2022 : Extracting with threshold -0.192261% on ch 44
+12:29:22.09, 10/10/2022 : Loading channel 45...
+12:29:22.78, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 45
+12:29:22.98, 10/10/2022 : Extracting with threshold -0.393677% on ch 45
+12:29:24.55, 10/10/2022 : Sorting ch 45 with 2D Valley Seeking method
+12:29:26.75, 10/10/2022 : Loading channel 46...
+12:29:27.58, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 46
+12:29:27.81, 10/10/2022 : Extracting with threshold -0.344849% on ch 46
+12:29:29.21, 10/10/2022 : Sorting ch 46 with 2D Valley Seeking method
+12:29:30.55, 10/10/2022 : Loading channel 47...
+12:29:31.49, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 47
+12:29:31.75, 10/10/2022 : Extracting with threshold -0.170898% on ch 47
+12:29:33.02, 10/10/2022 : Sorting ch 47 with 2D Valley Seeking method
+12:29:34.81, 10/10/2022 : Loading channel 48...
+12:29:35.58, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 48
+12:29:35.84, 10/10/2022 : Extracting with threshold -0.320435% on ch 48
+12:29:37.55, 10/10/2022 : Loading channel 49...
+12:29:38.40, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 49
+12:29:38.63, 10/10/2022 : Extracting with threshold -0.241089% on ch 49
+12:29:40.18, 10/10/2022 : Loading channel 50...
+12:29:40.85, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 50
+12:29:41.06, 10/10/2022 : Extracting with threshold -0.225830% on ch 50
+12:29:42.53, 10/10/2022 : Loading channel 51...
+12:29:43.23, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 51
+12:29:43.40, 10/10/2022 : Extracting with threshold -0.311279% on ch 51
+12:29:44.27, 10/10/2022 : Sorting ch 51 with 2D Valley Seeking method
+12:29:44.83, 10/10/2022 : Loading channel 52...
+12:29:45.23, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 52
+12:29:45.32, 10/10/2022 : Extracting with threshold -0.314331% on ch 52
+12:29:45.81, 10/10/2022 : Loading channel 53...
+12:29:46.11, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 53
+12:29:46.17, 10/10/2022 : Extracting with threshold -0.332642% on ch 53
+12:29:46.61, 10/10/2022 : Sorting ch 53 with 2D Valley Seeking method
+12:29:47.02, 10/10/2022 : Loading channel 54...
+12:29:47.31, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 54
+12:29:47.38, 10/10/2022 : Extracting with threshold -0.204468% on ch 54
+12:29:47.81, 10/10/2022 : Loading channel 55...
+12:29:48.09, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 55
+12:29:48.16, 10/10/2022 : Extracting with threshold -0.292969% on ch 55
+12:29:48.62, 10/10/2022 : Sorting ch 55 with 2D Valley Seeking method
+12:29:49.05, 10/10/2022 : Loading channel 56...
+12:29:49.33, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 56
+12:29:49.38, 10/10/2022 : Extracting with threshold -0.231934% on ch 56
+12:29:49.77, 10/10/2022 : Sorting ch 56 with 2D Valley Seeking method
+12:29:50.23, 10/10/2022 : Loading channel 57...
+12:29:50.52, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 57
+12:29:50.58, 10/10/2022 : Extracting with threshold -0.677490% on ch 57
+12:29:51.02, 10/10/2022 : Sorting ch 57 with 2D Valley Seeking method
+12:29:51.80, 10/10/2022 : Loading channel 58...
+12:29:52.06, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 58
+12:29:52.12, 10/10/2022 : Extracting with threshold -0.299072% on ch 58
+12:29:52.54, 10/10/2022 : Loading channel 59...
+12:29:52.80, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 59
+12:29:52.87, 10/10/2022 : Extracting with threshold -0.271606% on ch 59
+12:29:53.33, 10/10/2022 : Loading channel 60...
+12:29:53.59, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 60
+12:29:53.66, 10/10/2022 : Extracting with threshold -0.238037% on ch 60
+12:29:54.11, 10/10/2022 : Sorting ch 60 with 2D Valley Seeking method
+12:29:55.06, 10/10/2022 : Loading channel 61...
+12:29:55.38, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 61
+12:29:55.47, 10/10/2022 : Extracting with threshold -0.289917% on ch 61
+12:29:55.93, 10/10/2022 : Sorting ch 61 with 2D Valley Seeking method
+12:29:56.54, 10/10/2022 : Loading channel 62...
+12:29:56.82, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 62
+12:29:56.91, 10/10/2022 : Extracting with threshold -0.180054% on ch 62
+12:29:57.39, 10/10/2022 : Loading channel 63...
+12:29:57.69, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 63
+12:29:57.77, 10/10/2022 : Extracting with threshold -0.210571% on ch 63
+12:29:58.30, 10/10/2022 : Loading channel 64...
+12:29:58.67, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 64
+12:29:58.77, 10/10/2022 : Extracting with threshold -0.347900% on ch 64
+12:29:59.26, 10/10/2022 : Sorting ch 64 with 2D Valley Seeking method
+12:29:59.74, 10/10/2022 : Loading channel 65...
+12:29:60.00, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 65
+12:30:0.05, 10/10/2022 : Skipping extraction for ch 65 because its frequency of 5000 is not at the spike frequency
+12:30:0.33, 10/10/2022 : Loading channel 66...
+12:30:0.60, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 66
+12:30:0.61, 10/10/2022 : Skipping extraction for ch 66 because its frequency of 5000 is not at the spike frequency
+12:30:0.87, 10/10/2022 : Loading channel 67...
+12:30:1.13, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 67
+12:30:1.15, 10/10/2022 : Skipping extraction for ch 67 because its frequency of 5000 is not at the spike frequency
+12:30:1.40, 10/10/2022 : Loading channel 68...
+12:30:1.65, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 68
+12:30:1.66, 10/10/2022 : Skipping extraction for ch 68 because its frequency of 5000 is not at the spike frequency
+12:30:1.89, 10/10/2022 : Loading channel 69...
+12:30:2.10, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 69
+12:30:2.12, 10/10/2022 : Skipping extraction for ch 69 because its frequency of 5000 is not at the spike frequency
+12:30:2.35, 10/10/2022 : Loading channel 70...
+12:30:2.57, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 70
+12:30:2.58, 10/10/2022 : Skipping extraction for ch 70 because its frequency of 5000 is not at the spike frequency
+12:30:2.83, 10/10/2022 : Loading channel 71...
+12:30:3.09, 10/10/2022 : Applying Low-cut 4-pole Butterworth filter with cutoff at 250.000000 Hz on ch 71
+12:30:3.21, 10/10/2022 : Extracting with threshold -0.042725% on ch 71
+12:30:3.67, 10/10/2022 : Sorting ch 71 with 2D Valley Seeking method
+12:30:4.47, 10/10/2022 : Exporting waveform data
+12:33:52.92, 10/10/2022 : Saved file: .\1hz.wfexp.txt
+12:33:52.95, 10/10/2022 : Batch file processing complete.
